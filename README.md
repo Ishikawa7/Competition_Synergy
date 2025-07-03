@@ -40,6 +40,8 @@ Competition_Synergy/
 - **Mean Competition-Synergy**: Bar chart of mean competitive value
 - **Hotel Comparison**: Example of a Side-by-side analysis of selected hotels
 
+![image info](./output/competition_synergy/competition_synergy_matrix.png)
+
 **Insights**:
 - Positive correlations indicate synergy (complementary positioning)
 - Negative correlations suggest direct competition
@@ -58,6 +60,11 @@ Competition_Synergy/
 - **PCA Scatter Plot**: Hotel positions in reduced strategic space (latent space)
 - **Revenue Heatmap**: Predicted revenue across strategic positioning space
 - **Component Analysis**: Feature contributions to strategic dimensions
+
+![image info](./output/positioning/strategic_positioning.png)
+
+![image info](./output/positioning/pca_component_0_contributions.png)
+![image info](./output/positioning/pca_component_1_contributions.png)
 
 **Insights**:
 - Identifies high-revenue strategic positions ("green zones")
